@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://dankstuff.net/assets/web-app-manifest-512x512.png" width="150" />
+  <a href="https://dankstuff.net" target="_blank"><img src="https://dankstuff.net/assets/web-app-manifest-192x192.png" width="150" /></a>
 
   <h1>DankStuff</h1>
 </div>
